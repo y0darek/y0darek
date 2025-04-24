@@ -2,7 +2,7 @@
 
 ## Hi, I'm y0darek!
 
-✨ Web3 & crypto enthusiast ✨
+✨ Web3 & crypto enthusiast ✨<br/>
 ⚡ Always want to learn more about technology
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
